@@ -1,0 +1,7 @@
+boto3
+sagemaker
+numpy
+keras
+pandas
+sklearn
+argparse
